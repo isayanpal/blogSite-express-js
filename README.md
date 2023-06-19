@@ -1,4 +1,4 @@
-# blogSite-express-js
+# blogSite-express-js-mongodb
 
 in the adress bar add "/compose" to add your blog
 
